@@ -1,0 +1,12 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "Decompilatooooor",
+    "entryPoint": "my-first-plugin.py",
+    
+    "logoUrl": "https://hex-rays.com/hubfs/unnamed-3.png",
+    "idaVersions": ["9.1"],
+    "description" : "One decompilator to rule them all",
+    "version": "1.1.2"
+  }
+}
