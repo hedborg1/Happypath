@@ -3,7 +3,7 @@
   "plugin": {
     "name": "Decompilatooooor",
     "entryPoint": "my-first-plugin.py",
-    
+     "categories": ["disassembly-and-processor-modules"],
     "logoUrl": "https://hex-rays.com/hubfs/unnamed-3.png",
     "idaVersions": ["9.1"],
     "description" : "One decompilator to rule them all",
