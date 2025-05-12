@@ -1,8 +1,8 @@
 {
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
-    "name": "",
-    "entryPoint": "Borg-plugin.py",
+    "name": "Borg",
+    "entryPoint": "Borgplugin.py",
     "categories": ["security"],
     "logoPath": "customers-agecies-banner.jpg",
     "idaVersions": "9.0",
